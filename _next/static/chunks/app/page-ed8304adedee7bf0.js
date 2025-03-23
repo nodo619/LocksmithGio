@@ -49,7 +49,7 @@
                         })]
                     }), (0, n.jsx)("span", {
                         className: "text-2xl font-bold hidden md:block",
-                        children: "+1 561 519 4618"
+                        children: "+1 785 404 5816"
                     })]
                 })
             }
@@ -173,7 +173,7 @@
                     contact: ""
                 }), l = async () => {
                     try {
-                        if ((await fetch("https://0ay4xcybce.execute-api.eu-north-1.amazonaws.com/AlocksmithsProd", {
+                        if ((await fetch("https://30wczp4ll4.execute-api.eu-north-1.amazonaws.com/Prod", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
